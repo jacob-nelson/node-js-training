@@ -1,0 +1,23 @@
+{
+  "name": "training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.12.0"
+  },
+  "dependencies": {
+    "express": "^4.15.4",
+    "grunt": "^1.0.1",
+    "mongoose": "^4.11.11",
+    "mysql": "^2.14.1",
+    "pug": "^2.0.0-rc.4",
+    "restify": "^5.2.0"
+  }
+}
