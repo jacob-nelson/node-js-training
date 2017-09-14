@@ -1,3 +1,8 @@
+/*
+* File operations 
+* Callbacks, asynchronous and synchronous program
+* Making use of custom event handler for error handling
+*/
 const fs = require('fs');
 const eh = require('./event-handling');
 
